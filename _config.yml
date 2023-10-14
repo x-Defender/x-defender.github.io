@@ -63,8 +63,8 @@ google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
 # SEO Related
-google_site_verification:
-bing_site_verification:
+google_site_verification: "AGtTKsHg7W-iMN96QJreqMfEWCJmzhyHIeZh0u57fVE"
+bing_site_verification: "CD5A7156808532F8462029D91F56FB44"
 yandex_site_verification:
 naver_site_verification:
 
